@@ -1,0 +1,1 @@
+This repository contains a Jupyter notebook for evaluating and comparing different translation models for German. The notebook evaluates models using BLEU, TER, and ChrF metrics, and visualizes the results using heatmaps.
